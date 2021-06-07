@@ -1,10 +1,10 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "XXXXXXXXXXX",
+	token: "NzA1MzMwODM1ODgwMTQ5MDAy.XqqIhw.Pxkamu-wqDn3QF5uDiF2A30U1eU",
 	/* For the support server */
 	support: {
-		id: "XXXXXXXXXXX", // The ID of the support server
-		logs: "XXXXXXXXXXX", // And the ID of the logs channel of your server (new servers for example)
+		id: "687768410784006195", // The ID of the support server
+		logs: "851427703021240340", // And the ID of the logs channel of your server (new servers for example)
 	},
 	/* Dashboard configuration */
 	dashboard: {
@@ -24,11 +24,11 @@ module.exports = {
 		footer: "Atlanta | Open Source" // And the default footer for the embeds
 	},
 	defaultLanguage: "english", // The default language for the new servers
-	botname: "Atlanta", // The name of the bot
+	botname: "Buddy", // The name of the bot
 	/* Bot's owner informations */
 	owner: {
-		id: "XXXXXXXXXXX", // The ID of the bot's owner
-		name: "Androz#2091" // And the name of the bot's owner
+		id: "522728463413542925", // The ID of the bot's owner
+		name: "ᴇʟɪᴛᴇ᭄ÄÑŲŘÅĞᴮᵒˢˢ#1886" // And the name of the bot's owner
 	},
 	/* DBL votes webhook (optional) */
 	votes: {
@@ -47,7 +47,7 @@ module.exports = {
 		// DBL: https://discordbots.org/api/docs#mybots
 		dbl: "XXXXXXXXXXX",
 		// SIMPLE YOUTUBE API: https://console.developers.google.com/
-		simpleYoutube: "XXXXXXXXXXX",
+		simpleYoutube: "AIzaSyDqEwQpKyskzBM8mMnRqw8FGq59vKwIme8",
 		// AMETHYSTE: https://api.amethyste.moe
 		amethyste: "XXXXXXXXXXX"
 	},
@@ -206,12 +206,12 @@ module.exports = {
 	/* The Bot status */
 	status: [
 		{
-			name: "@Atlanta help on {serversCount} servers",
-			type: "LISTENING"
+			name: "BUDDY help on ELITE Servers",
+			type: "WATCHING"
 		},
 		{
-			name: "my website : atlanta-bot.fr",
-			type: "PLAYING"
+			name: "ELILTE : https://discord.gg/Z7hyEjN4sT",
+			type: "WATCHING"
 		}
 	],
 	proMode: false, // Whether the bot is in pro mode (only users in the proUsers array will be able to invite the bot)
